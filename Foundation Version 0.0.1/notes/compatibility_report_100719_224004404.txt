@@ -1,0 +1,17 @@
+!!! Font fnt_main uses a font (Smallest Pixel-7) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_main\fnt_main.gms1.png
+Converting GML script: ${project_dir}\objects\obj_input\Step_0.gml
+Converted string - line 50: 'Z' -> "Z"
+Converted string - line 56: 'Z' -> "Z"
+
+Missing audiogroup for sound: 'snd_jump1' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump2' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump3' - setting to default audio group
+Missing audiogroup for sound: 'snd_step' - setting to default audio group
+Missing audiogroup for sound: 'snd_land' - setting to default audio group
+Missing audiogroup for sound: 'snd_slash1' - setting to default audio group
+Missing audiogroup for sound: 'snd_die' - setting to default audio group
+Missing audiogroup for sound: 'snd_grab1' - setting to default audio group
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,20 @@
+// Screenshake ////////////////////////////////////////////////////////////////
+
+// If screen is shaking
+screenShake = false;
+
+// Offset(s) used for shake
+camOffsetX = 0;
+camOffsetY = 0;
+
+// Shake direction(s)
+shakeX = choose(-1, 1);
+shakeY = choose(-1, 1);
+
+SHAKE_DISTANCE = 1;
+
+///////////////////////////////////////////////////////////////////////////////
+
+
+
+

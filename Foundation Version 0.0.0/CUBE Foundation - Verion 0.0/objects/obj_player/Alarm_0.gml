@@ -1,0 +1,1 @@
+Debug(obj_player, "Alarm 0: One of the frames is reached.");

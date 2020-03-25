@@ -1,0 +1,18 @@
+Density: The density of something is defined as its mass per unit volume, which basically means 
+how much mass is crammed into the space it takes up in the world.
+
+Restitution: Restitution is really a way of saying how "bouncy" the fixture is. This setting will 
+affect how much an object "bounces" when it collides with other objects and is co-dependant on 
+other forces that act on the instance like gravity and friction.
+
+Collision Group: The collision group can be used to force GameMaker Studio 2 to treat collisions 
+in specific ways.
+
+Linear Damping: Damping is used to reduce the physics world velocity of an instance as it moves 
+over time (like air resistance).
+
+Angular Damping: As above, only instead affecting the velocity of movement, this sets the slow 
+down rate for the angular velocity.
+
+Friction: Friction sets the loss of momentum caused by the collision of two instances with fixtures 
+bound to them. The lower the value, the easier it is for one colliding instance to "slide" off the other.

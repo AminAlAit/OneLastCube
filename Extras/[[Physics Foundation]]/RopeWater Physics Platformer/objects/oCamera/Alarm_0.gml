@@ -1,0 +1,2 @@
+screenShake = false;
+

@@ -1,0 +1,1 @@
+Debug(obj_player, "Alarm 1: we are running - looking left.");
