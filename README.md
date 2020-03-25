@@ -5,3 +5,6 @@ platformer!
 A story hasn't been developed yet, but if it were, it will tackle the "One-ness" and "Last-ness" of this pure little cube.
 
 Space Nugget, however, is working on a similar game inspired by One Last Cube. 
+
+To run the game, please find the executable file in the "EXE" folder.
+The project file is located in the "Foundation Version" folders.
